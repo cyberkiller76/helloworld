@@ -2,7 +2,7 @@ import math
 def trigcalc():
     notdone = True
     print()
-    print("Welcome to the trigonometry calculator.")
+    print("Welcome to the trigonometry calculator, made by Vedant Patel")
     print()
     print("Please select a mode from the following:")
     print("1. Pythagoras' Theorem (right angled triangle)")
